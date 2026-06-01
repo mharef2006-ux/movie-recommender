@@ -64,8 +64,6 @@ except FileNotFoundError:
         "Sara": ["Titanic", "Inception"]
     }
 
-print("hell")
-print(data)
 
 # endregion
 
